@@ -60,6 +60,7 @@ Avertissement : Ce projet est un "fan game" créé à des fins éducatives et de
 
 L'univers, les concepts originaux, les citations et l'humour de "Vie et carrière" sont la propriété intellectuelle exclusive de François Pérusse / Zéro Musique. Si les ayants droit souhaitent le retrait de ce projet, celui-ci sera effectué immédiatement.
 
+Vibe codé avec google AiStudio, je n'ai pas vraiment d'expérience en code. 
 Développé avec amour en React + Three.js.
 
 Licence
