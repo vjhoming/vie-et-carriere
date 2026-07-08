@@ -1,0 +1,6 @@
+{
+  "name": "Vie et Carrière 3D",
+  "description": "Un jeu de course infinie en 3D inspiré du célèbre sketch québécois 'Vie et carrière' de François Pérusse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
